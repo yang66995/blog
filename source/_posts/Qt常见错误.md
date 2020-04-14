@@ -1,11 +1,13 @@
 ---
 title: Qt常见错误
 date: 2020-02-27 16:05:54
+id: doc1
 tags:
     - Qt
     - 报错
 categories: 
     - Qt
+description: Qt使用过程中遇到的报错问题
 cover: https://s1.ax1x.com/2020/04/06/GrHThj.jpg
 top_img: https://s1.ax1x.com/2020/04/06/Gr5rDg.jpg
 ---

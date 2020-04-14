@@ -1,12 +1,14 @@
 ---
 title: Hexo部署
 date: 2020-02-22 23:32:17
+id: doc1
 tags:
     - Hexo
     - 建站
 categories: 
     - Web
-cover: https://s1.ax1x.com/2020/04/06/GrHfnf.jpg
+description: Hexo本地部署、常用设置和命令
+cover: https://s1.ax1x.com/2020/04/14/Jpr0ld.jpg
 top_img: https://s1.ax1x.com/2020/04/06/Gr5K9x.jpg
 ---
 

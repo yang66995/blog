@@ -1,11 +1,13 @@
 ---
 title: PS裁剪出固定像素的图片
 date: 2020-04-06 00:01:32
+id: doc1
 tags:
     - PS    
     - 软件
 categories: 
     - 软件
+description: 
 cover: https://s1.ax1x.com/2020/04/06/GrHqcq.jpg
 top_img: https://s1.ax1x.com/2020/04/06/Gr5jxK.jpg
 ---

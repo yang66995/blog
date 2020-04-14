@@ -1,10 +1,12 @@
 ---
 title: Office Tool Plus部署office
 date: 2020-04-06 14:32:00
+id: doc1
 tags:
     - office
 categories: 
     - office
+description: office一键安装部署工具快速安装各版本office
 cover: https://s1.ax1x.com/2020/04/06/GsqPNF.jpg
 top_img: https://s1.ax1x.com/2020/04/06/Gr5GHH.jpg
 ---

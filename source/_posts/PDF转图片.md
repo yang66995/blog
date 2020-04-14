@@ -1,11 +1,13 @@
 ---
 title: PDF转图片
 date: 2020-02-25 09:40:17
+id: doc1
 tags:
     - PDF
     - 软件
 categories: 
     - 软件
+description: 格式工厂转换单页PDF为图片格式
 cover: https://s1.ax1x.com/2020/04/06/GrH4HS.jpg
 top_img: https://s1.ax1x.com/2020/04/06/Gr5GHH.jpg
 ---
